@@ -1,0 +1,13 @@
+.main-nav-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 50px;
+  width: 30vw;
+
+  .main-nav {
+    font-size: 45px;
+    color: azure;
+    text-decoration: none;
+  }
+}
